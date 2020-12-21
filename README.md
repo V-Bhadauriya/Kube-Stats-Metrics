@@ -6,11 +6,17 @@ Get More Detail Here:
 
 ## Deployment
 ``git clone https://github.com/V-Bhadauriya/Kube-Stats-Metrics.git``
+
 ``kubectl apply -f Kube-Stats-Metrics/cluster-role.yaml``
+
 ``kubectl apply -f Kube-Stats-Metrics/cluster-role-binding.yaml``
+
 ``kubectl apply -f Kube-Stats-Metrics/service-account.yaml``
+
 ``kubectl apply -f Kube-Stats-Metrics/deployment.yaml``
+
 ``kubectl apply -f Kube-Stats-Metrics/cluster-role.yaml``
+
 ``kubectl apply -f Kube-Stats-Metrics/service.yaml``
 
 ## Prometheus config
