@@ -30,7 +30,10 @@ Add the below job config in Prometheus Configuration configmap which your can fi
 ## Delete the Prometheus
 Delete the Prometheus pod from the **istio-system** so that the updated config will be applied and Prometheus start scraping the the metrics.
 **Command -:**
-``kubectl delete pod <PrometheusPodName> -n istio-system``
+``
+kubectl delete pod <PrometheusPodName> -n istio-system
+``
+
 After delete new pod will automatcially spins up.
 
 
