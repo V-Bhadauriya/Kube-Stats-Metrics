@@ -39,5 +39,13 @@ After delete new pod will automatcially spins up.
 
 
 ## Grafana DashBoard
-![alt text](https://raw.githubusercontent.com/V-Bhadauriya/Kube-Stats-Metrics/main/dashboard/screen-tex-light-th.png?raw=true)
+![alt text](https://raw.githubusercontent.com/V-Bhadauriya/Kube-Stats-Metrics/main/dashboard/Cluster.png?raw=true)
+![alt text](https://raw.githubusercontent.com/V-Bhadauriya/Kube-Stats-Metrics/main/dashboard/Node.png?raw=true)
+![alt text](https://raw.githubusercontent.com/V-Bhadauriya/Kube-Stats-Metrics/main/dashboard/Deployments.png?raw=true)
+![alt text](https://raw.githubusercontent.com/V-Bhadauriya/Kube-Stats-Metrics/main/dashboard/Statefuleset-light-th.png?raw=true)
+![alt text](https://raw.githubusercontent.com/V-Bhadauriya/Kube-Stats-Metrics/main/dashboard/Pods.png?raw=true)
+![alt text](https://raw.githubusercontent.com/V-Bhadauriya/Kube-Stats-Metrics/main/dashboard/Containers.png?raw=true)
+![alt text](https://raw.githubusercontent.com/V-Bhadauriya/Kube-Stats-Metrics/main/dashboard/Jobs.png?raw=true)
+![alt text](https://raw.githubusercontent.com/V-Bhadauriya/Kube-Stats-Metrics/main/dashboard/PVCs.png?raw=true)
+
 
