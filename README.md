@@ -35,5 +35,5 @@ After delete new pod will automatcially spins up.
 
 
 ## Grafana DashBoard
-![alt text](https://github.com/V-Bhadauriya/Kube-Stats-Metrics/dashboard/[branch]/image.jpg?raw=true)
+![alt text](https://raw.githubusercontent.com/V-Bhadauriya/Kube-Stats-Metrics/main/dashboard/screen-tex-light-th.png?raw=true)
 
